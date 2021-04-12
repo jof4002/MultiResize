@@ -1,0 +1,106 @@
+[
+    {
+        "path": "/Build/Android/res/drawable/icon.png",
+        "size": "48x48"
+    },
+    {
+        "path": "/Build/Android/res/drawable-hdpi/icon.png",
+        "size": "72x72"
+    },
+    {
+        "path": "/Build/Android/res/drawable-ldpi/icon.png",
+        "size": "36x36"
+    },
+    {
+        "path": "/Build/Android/res/drawable-mdpi/icon.png",
+        "size": "48x48"
+    },
+    {
+        "path": "/Build/Android/res/drawable-xhdpi/icon.png",
+        "size": "96x96"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon20.png",
+        "size": "20x20"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon20@2x.png",
+        "size": "40x40"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon20@3x.png",
+        "size": "60x60"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon29.png",
+        "size": "29x29"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon29@2x.png",
+        "size": "58x58"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon29@3x.png",
+        "size": "87x87"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon40.png",
+        "size": "40x40"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon40@2x.png",
+        "size": "80x80"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon40@3x.png",
+        "size": "120x120"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon50.png",
+        "size": "50x50"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon50@2x.png",
+        "size": "100x100"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon57.png",
+        "size": "57x57"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon57@2x.png",
+        "size": "114x114"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon60@2x.png",
+        "size": "120x120"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon60@3x.png",
+        "size": "180x180"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon72.png",
+        "size": "72x72"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon72@2x.png",
+        "size": "144x144"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon76.png",
+        "size": "76x76"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon76@2x.png",
+        "size": "152x152"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon83.5@2x.png",
+        "size": "167x167"
+    },
+    {
+        "path": "/Build/IOS/Resources/Graphics/Icon1024.png",
+        "size": "1024x1024"
+    }
+]
